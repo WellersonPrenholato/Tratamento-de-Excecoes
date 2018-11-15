@@ -1,0 +1,29 @@
+Opcao escolhida no MENU: 1
+MENSAGEM: Erro de Divisao por ZERO!
+DENOMINADOR INSERIDO: 0
+Data: 14/11/2018
+Horario: 12:6:49
+
+Opcao escolhida no MENU: 2
+MENSAGEM: Erro RAIZ NEGATIVA!
+RAIZ INSERIDA: -49
+Data: 14/11/2018
+Horario: 12:7:3
+
+Opcao escolhida no MENU: 3
+MENSAGEM: A dado inserido NAO eh um NUMERO!
+DADO INSERIDO: 21a
+Data: 14/11/2018
+Horario: 12:7:40
+
+Opcao escolhida no MENU: 4
+MENSAGEM: A dado inserido NAO eh uma LETRA!
+DADO INSERIDO: aaa2
+Data: 14/11/2018
+Horario: 12:7:55
+
+Opcao escolhida no MENU: 6
+MENSAGEM: ERRO ao ALOCAR MEMORIA (NAO FOI POSSIVEL FAZER A ALOCACAO)!
+Data: 14/11/2018
+Horario: 12:8:5
+
