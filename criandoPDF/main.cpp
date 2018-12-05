@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 #include <fstream>
-#include "C:\Users\welle\OneDrive\Área de Trabalho\TrabLP\jagpdf-1.4.0.win32.x86.c_cpp\include\jagpdf\api.h"
+#include "include\jagpdf\api.h"
 
 using namespace std;
 using namespace jag;
