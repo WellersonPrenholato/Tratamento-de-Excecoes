@@ -1,8 +1,9 @@
-# Tratamento-de-Excecoes
+## 📌 Tratamento de Erros em C++ 
 
-### Tratamento de Erros em C++ 
-
-O arquivo excecoes.h representa um template em C++ que recebe qualquer tipo de dados.
-Este foi projetado para reconhecer exceções específicas, tais como divisão por zero, verificar se é um número, verificar se é palavra, alocação de memória, entre outros tratamentos de erros.
-
-
+🔗 O arquivo excecoes.h representa um template em C++ que recebe qualquer tipo de dado. <br> <br>
+👻 Essa aplicação foi projetada para reconhecer exceções específicas, sendo elas:
+- Divisão por zero 
+- Verificação se é número
+- Verificação se é palavra 
+- Alocação de memória
+- Entre outros tratamentos de erros.
